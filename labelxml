@@ -1,4 +1,4 @@
-'<?xml version="1.0" encoding="utf-8"?>\
+<?xml version="1.0" encoding="utf-8"?>\
     <DieCutLabel Version="8.0" Units="twips">\
         <PaperOrientation>Landscape</PaperOrientation>\
         <Id>Address</Id>\
@@ -39,4 +39,4 @@
             </AddressObject>\
             <Bounds X="332" Y="150" Width="4455" Height="1260" />\
         </ObjectInfo>\
-    </DieCutLabel>'
+    </DieCutLabel>
